@@ -38,7 +38,7 @@ Here I used Microsoft Azure to create an osTicket virtual machine within a resou
 <img src="https://i.imgur.com/H4uLfxf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here within the VM (osticket-vm), I downloaded the osTicket-Installation-Files.zip and unziped it onto my VM desktop.
+Here within the VM (osticket-vm), I downloaded the osTicket-Installation-Files.zip and unzipped it onto my VM desktop.
 </p>
 <br />
 
@@ -46,7 +46,7 @@ Here within the VM (osticket-vm), I downloaded the osTicket-Installation-Files.z
 <img src="https://i.imgur.com/jEErpJZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here im installing/enabling IIS in windows with CGI by going to the control panel, programs, then clicking on windows features on or off. Then expand world wide web services, application development deatures, then check the box for CGI to enable it. Lastly apply the changes. This will install IIS with CGI support for runnung CGI scripts.
+Here I'm installing/enabling IIS in Windows with CGI by going to the control panel, programs, then clicking on Windows Features on or off. Then expand World Wide Web services, application development features, and then check the box for CGI to enable it. Lastly, apply the changes. This will install IIS with CGI support for running CGI scripts.
 </p>
 <br />
 
@@ -62,7 +62,7 @@ Here im installing the PHP manager and rewrite module files for IIS on windows. 
 <img src="https://i.imgur.com/sLw1zcH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here I create A PHP folder on the windows C: disk, then extract the PHP file into the folder. This allows me to place the PHP file in a central location where IIS can access and use it for processing PHP scripts.
+Here I create A PHP folder on the Windows C: disk, then extract the PHP file into the folder. This allows me to place the PHP file in a central location where IIS can access and use it for processing PHP scripts.
 </p>
 <br />
 
