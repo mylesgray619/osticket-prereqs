@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/HX8rcDm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/f6gSSoT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Here I used Microsft Azure, to create a osTicket virtual machine within a resource group, then filled in the required information such as using windows 10 OS, selecting the region you are closest to, etc.
