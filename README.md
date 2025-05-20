@@ -54,7 +54,7 @@ Here I'm installing/enabling IIS in Windows with CGI by going to the control pan
 <img src="https://i.imgur.com/72Ngatx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here im installing the PHP manager and rewrite module files for IIS on windows. This will allow me to easily manage PHP on IIS and simplify the process of integrating PHP with IIS. The rewrite module allows for powerful and flexible URL manipulation.
+Here I'm installing the PHP manager and rewrite module files for IIS on Windows. This will allow me to easily manage PHP on IIS and simplify the process of integrating PHP with IIS. The rewrite module allows for powerful and flexible URL manipulation.
 </p>
 <br />
 
@@ -70,7 +70,7 @@ Here I create A PHP folder on the Windows C: disk, then extract the PHP file int
 <img src="https://i.imgur.com/5UnINi1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here im installing both the "VC_redist" and "MySQL" file. The VC_redist file ensures the necessary runtime libraries for running MySQL and PHP. The MySQL file configuring it with a root user and password gives me access to the MySQL database, which will be used by applications like osTicket to store and manage data.
+Here I'm installing both the "VC_redist" and "MySQL" files. The VC_redist file ensures the necessary runtime libraries for running MySQL and PHP. The MySQL file, configured with a root user and password, gives me access to the MySQL database, which will be used by applications like osTicket to store and manage data.
 </p>
 <br />
 
@@ -78,7 +78,7 @@ Here im installing both the "VC_redist" and "MySQL" file. The VC_redist file ens
 <img src="https://i.imgur.com/HfrArUY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here I Opened IIS as an Admin to ensure that I have administrator-level access to configure and manage the server. Then I clicked on register PHP which tells IIS to use PHP for processing dynamic web pages for the osTicket. Then I stopped and restarted the server to apply the changes.
+Here, I opened IIS as an Admin to ensure that I have administrator-level access to configure and manage the server. Then I clicked on register PHP, which tells IIS to use PHP for processing dynamic web pages for the osTicket. Then I stopped and restarted the server to apply the changes.
 </p>
 <br />
 
